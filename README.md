@@ -89,7 +89,8 @@ These metrics describe this generated dataset only. They do not predict performa
 src/riskfraud/       Data validation, model, and CLI
 tests/               Unit and end-to-end CLI tests
 data/sample_features.csv
-docs/                Business-impact calculation and limitations
+Business Impact.MD   Illustrative business-value calculation
+Limitations.MD       Scope and known limitations
 pyproject.toml        Package metadata and dependency ranges
 ```
 
